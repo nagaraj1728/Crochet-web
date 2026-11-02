@@ -1,7 +1,7 @@
 
 import React, { useEffect, useState } from "react";
 
-const API_URL = "http://localhost:5000/api/orders";
+const API_URL = "https://crochet-web-s2p7.onrender.com/api/orders";
 
 function Orders() {
   const [orders, setOrders] = useState([]);

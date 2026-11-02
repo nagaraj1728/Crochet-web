@@ -13,8 +13,8 @@ import crochetPurse from "./assets/products/Crochet-purse.jpg";
 import bobblePurse from "./assets/products/bobblestich-purse.jpg";
 
 // API
-const API_URL = "http://localhost:5000/api/products";
-const ORDER_API = "http://localhost:5000/api/orders";
+const API_URL = "https://crochet-web-s2p7.onrender.com/api/products";
+const ORDER_API = "https://crochet-web-s2p7.onrender.com/api/orders";
 
 // BUSINESS DETAILS
 const business = {

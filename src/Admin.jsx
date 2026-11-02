@@ -1,8 +1,8 @@
 
 import React, { useState, useEffect } from "react";
 
-const API_URL = "http://localhost:5000/api/products";
-const AUTH_URL = "http://localhost:5000/api/auth/login";
+const API_URL = "https://crochet-web-s2p7.onrender.com/api/products";
+const AUTH_URL = "https://crochet-web-s2p7.onrender.com/api/auth/login";
 
 const CLOUD_NAME = "rvcfhtxa";
 const UPLOAD_PRESET = "rhotnokq";
